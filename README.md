@@ -9,3 +9,14 @@ There a three main functions:
 
 
 This is my first steps with c#, so please be indulgent.
+
+
+
+If you need help you can take a look into the wiki https://github.com/JayFM38/Terminator-Genesys-Item-Planer/wiki
+
+ToDo:
+- multilingual Support
+- adding more leaderitems
+
+Release:
+*V0.8 initial Release
