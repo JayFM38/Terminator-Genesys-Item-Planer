@@ -20,5 +20,5 @@ ToDo:
 - adding more leaderitems
 
 Release:
-*V0.81 fixed bonivalue of "Hitzestabilisierungsmodul"
-*V0.8 initial Release
+- V0.81 fixed bonivalue of "Hitzestabilisierungsmodul"
+- V0.8 initial Release
