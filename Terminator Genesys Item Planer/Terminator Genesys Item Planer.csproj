@@ -183,9 +183,16 @@
     <None Include="Resources\wolfram.JPG" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="wiki\altesSet.JPG" />
+    <Content Include="wiki\autoGenerate.JPG" />
+    <Content Include="wiki\compare.JPG" />
+    <Content Include="wiki\components.JPG" />
+    <Content Include="wiki\neuesSet.JPG" />
+    <Content Include="wiki\TerminatorMain.JPG" />
     <None Include="Resources\settings.png" />
     <Content Include="settings.png" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
