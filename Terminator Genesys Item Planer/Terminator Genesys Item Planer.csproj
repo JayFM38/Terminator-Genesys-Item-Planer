@@ -183,13 +183,19 @@
     <None Include="Resources\wolfram.JPG" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="wiki\anzahlResult.JPG" />
+    <Content Include="wiki\configureAuto.JPG" />
+    <Content Include="wiki\overview.JPG" />
+    <Content Include="wiki\owned.JPG" />
     <Content Include="wiki\altesSet.JPG" />
     <Content Include="wiki\autoGenerate.JPG" />
     <Content Include="wiki\compare.JPG" />
     <Content Include="wiki\components.JPG" />
+    <Content Include="wiki\factor.JPG" />
     <Content Include="wiki\neuesSet.JPG" />
+    <Content Include="wiki\setup.JPG" />
     <Content Include="wiki\TerminatorMain.JPG" />
-    <None Include="Resources\settings.png" />
+    <None Include="wiki\settings.png" />
     <Content Include="settings.png" />
   </ItemGroup>
   <ItemGroup />
