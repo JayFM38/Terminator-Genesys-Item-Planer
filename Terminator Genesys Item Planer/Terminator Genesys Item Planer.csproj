@@ -183,6 +183,7 @@
     <None Include="Resources\wolfram.JPG" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Terminator Genesys Item Planer.exe" />
     <Content Include="wiki\anzahlResult.JPG" />
     <Content Include="wiki\configureAuto.JPG" />
     <Content Include="wiki\overview.JPG" />
