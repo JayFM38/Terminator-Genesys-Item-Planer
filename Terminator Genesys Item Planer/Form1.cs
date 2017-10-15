@@ -98,7 +98,7 @@ namespace Terminator_Genesys_Item_Planer
 
         List<KommanderItems> optimiererItems = new List<KommanderItems>()
         {
-            new KommanderItems("Hitzestabilisierungsmodul", _itemSlot.optimierer, 50, 500, new List<Boni> { new Boni(_boniTyp.forschung, (float)20.3, true, 2), new Boni(_boniTyp.sturmtruppenAng, (float)15.6, true, 1), new Boni(_boniTyp.gesTruppenAbw, (float)8.4, true, 1)}),
+            new KommanderItems("Hitzestabilisierungsmodul", _itemSlot.optimierer, 50, 500, new List<Boni> { new Boni(_boniTyp.belagerungAng, (float)20.3, true, 2), new Boni(_boniTyp.luftwaffeAng, (float)15.6, true, 1), new Boni(_boniTyp.gesTruppenGes, (float)8.4, true, 1)}),
             new KommanderItems("Haltbarkeitsmodul", _itemSlot.optimierer, 49, 490, new List<Boni> { new Boni(_boniTyp.munitionProd, (float)230.1, true, 2), new Boni(_boniTyp.gesTruppenAbw, (float)8.3, true, 1), new Boni(_boniTyp.luftwaffeAng, (float)15.3, true, 1)}),
             new KommanderItems("Verstärkungsknoten", _itemSlot.optimierer, 49, 490, new List<Boni> { new Boni(_boniTyp.forschung, (float)23.9, true, 2), new Boni(_boniTyp.gesTruppenGes, (float)8.3, true, 1), new Boni(_boniTyp.kavallerieAng, (float)14.6, true, 1)}),
             new KommanderItems("Analysemodul", _itemSlot.optimierer, 48, 480, new List<Boni> { new Boni(_boniTyp.bau, (float)20, true, 2), new Boni(_boniTyp.forschung, (float)19.1, true, 1), new Boni(_boniTyp.luftwaffeAng, (float)15.8, true, 1)}),
