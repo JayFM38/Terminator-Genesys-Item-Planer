@@ -195,7 +195,7 @@
     <Content Include="wiki\neuesSet.JPG" />
     <Content Include="wiki\setup.JPG" />
     <Content Include="wiki\TerminatorMain.JPG" />
-    <None Include="wiki\settings.png" />
+    <None Include="Resources\settings.png" />
     <Content Include="settings.png" />
   </ItemGroup>
   <ItemGroup />
